@@ -1,6 +1,6 @@
 ## CI/CD Pipeline-as-code example
 
-Accompanying blog post: https://www.datapipe.com/blog/
+Accompanying blog post: https://www.datapipe.com/blog/2017/03/30/cicd-pipelines-as-code/
 
 This is an example repository to highlight the basic value of pipelines-as-code using Jenkins and Terraform.
 
